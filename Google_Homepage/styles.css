@@ -1,3 +1,41 @@
 a {
     text-decoration: none;
+    font-family: Roboto,arial,sans-serif;
+    font-size: 14px;
+}
+
+header a {
+    color: #202124;
+}
+
+.subnav a {
+    font-size: 13px;
+    font-family: arial,sans-serif;
+    color: rgba(0,0,0,0.87);
+}
+
+footer a {
+    color: #70757a;
+}
+
+button {
+    background-color: #f8f9fa;
+    color: #3c4043;
+    font-family: Roboto,arial,sans-serif;
+    font-size: 14px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+   
+    /* cursor: pointer; 
+    user-select: none;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px; */
+}
+
+footer {
+    background-color: lightgrey;
 }
